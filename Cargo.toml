@@ -7,7 +7,7 @@ license = "Apache-2.0"
 keywords = ["elasticsearch", "elastic","dsl","parser"]
 description = "Complete ES DSL syntax parsing."
 documentation = "https://docs.rs/elastic-dsl-parser"
-repository = "git@github.com:alinejun/elastic-dsl-parser.git"
+repository = "https://github.com/alinejun/elastic-dsl-parser.git"
 readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
